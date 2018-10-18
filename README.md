@@ -81,8 +81,8 @@ url to stage
 * Related projects
 
 # Credits - Where to get help!
-* **Human 1** human1@mercadolibre.com
-* **Human 2** human2@mercadolibre.com
-* **Human 3** human3@mercadolibre.com
+* **Human 1** human1@example.com
+* **Human 2** human2@example.com
+* **Human 3** human3@example.com
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
